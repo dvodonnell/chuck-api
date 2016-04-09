@@ -1,0 +1,23 @@
+{
+  "name": "chuck-api",
+  "version": "1.0.0",
+  "description": "A pretty good API library.",
+  "main": "src/Chuck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvodonnell/chuck-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvodonnell/chuck-api/issues"
+  },
+  "homepage": "https://github.com/dvodonnell/chuck-api#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
